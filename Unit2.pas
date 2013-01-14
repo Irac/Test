@@ -83,6 +83,7 @@ procedure TForm2.Button5Click(Sender: TObject);
 begin
   Button5.Caption:='Mario!!1';
   Button5.Caption:='Mario!!1111yxyxyxyxyxy1';
+  ShowMessage('dario');
 end;
 
 procedure TForm2.Button6Click(Sender: TObject);
