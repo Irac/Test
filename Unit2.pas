@@ -50,6 +50,7 @@ procedure TForm2.Button2Click(Sender: TObject);
 begin
   lbl1.Caption:='Ne Radi!xcvxcvxcvxcvxcvxcvxcvxcvxcvxcvxcvxcvxcvxcvxcv!';
   showmessage('kako se merga??');
+  showmessage('ne znam');
 end;
 
 procedure TForm2.Button3Click(Sender: TObject);
