@@ -38,7 +38,7 @@ object Form2: TForm2
   end
   object Button2: TButton
     Left = 26
-    Top = 131
+    Top = 130
     Width = 95
     Height = 26
     Caption = 'Ne Radi'
