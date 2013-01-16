@@ -84,8 +84,8 @@ end;
 procedure TForm2.Button5Click(Sender: TObject);
 begin
   Button5.Caption:='Mario!!1';
-  Button5.Caption:='Mario!!1111yxyxyxyxyxy1';
-  ShowMessage('Mario');
+  Button5.Caption:='Mario!!';
+  ShowMessage('Proba da bidimo kaj ce bit');
 end;
 
 procedure TForm2.Button6Click(Sender: TObject);
